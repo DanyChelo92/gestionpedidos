@@ -1,0 +1,4 @@
+'''En setting del proyecto en la conexion al correo, falta agregar un correo personal y la contraseña del mismo.
+la conexion está realizada para hacerla con un correo Gmail.
+Para poder realizar la conexion es necesario dar permisos para aplicaciones de terceros en la configuracion de Gmail. 
+Haciendo esto, se le otrogará una clave, que esa se debe de usar en password.'''
