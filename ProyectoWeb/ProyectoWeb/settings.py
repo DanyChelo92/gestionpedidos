@@ -143,8 +143,8 @@ EMAIL_BACKEND="django.core.mail.backends.smtp.EmailBackend"
 EMAIL_HOST="smtp.gmail.com"
 EMAIL_USE_TLS=True
 EMAIL_PORT=587
-EMAIL_HOST_USER='danychelo92@gmail.com'
-EMAIL_HOST_PASSWORD='frmdhqnyaxpqrxfq'
+EMAIL_HOST_USER='correo@domino.com'
+EMAIL_HOST_PASSWORD='contrasena del corre'
 
 CRISPY_TEMPLATE_PACK="bootstrap4"
 
